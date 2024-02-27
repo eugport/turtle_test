@@ -1,0 +1,6 @@
+import turtle as t
+t.shape("turtle")
+for x in range(100):
+    t.forward(x)
+    t.left(90)
+
